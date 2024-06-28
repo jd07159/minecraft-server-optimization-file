@@ -38,7 +38,7 @@ anticheat:
     - redstone_ore
     - deepslate_redstone_ore
     lava-obscures: false
-    max-block-height: 64
+    max-block-height: 256
     replacement-blocks: []
     update-radius: 2
     use-permission: false

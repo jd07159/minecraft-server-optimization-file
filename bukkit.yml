@@ -19,7 +19,7 @@ spawn-limits:
   axolotls: 3
   ambient: 1
 chunk-gc:
-  period-in-ticks: 400
+  period-in-ticks: 600
 ticks-per:
   monster-spawns: 5
   animal-spawns: 400
